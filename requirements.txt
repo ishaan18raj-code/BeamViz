@@ -1,0 +1,5 @@
+# BeamViz runtime and development dependencies
+streamlit>=1.36
+numpy>=1.26
+matplotlib>=3.8
+pytest>=8.0
